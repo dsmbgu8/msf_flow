@@ -42,3 +42,7 @@ Install pip packages:
 ```
 pip install -r requirements.txt
 ```
+
+## License
+
+Free software: Apache 2.0
